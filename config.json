@@ -1,0 +1,8 @@
+{
+    "token": "your_token",
+    "prefix": "!",
+    "state_ticket": "off",
+    "color": "0x5865F2",
+    "channel_ticket_id": "your_channel_ticket_id", 
+    "transcript_ticket_id": "your_channel_transcript_ticket_id"
+}
